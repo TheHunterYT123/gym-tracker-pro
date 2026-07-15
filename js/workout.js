@@ -22,6 +22,18 @@ export const MUSCLE_COLORS = {
   'Pantorrillas':         { bg:'rgba(245,158,11,0.15)',  c:'#fbbf24' },
   'Trapecio':             { bg:'rgba(20,184,166,0.15)',  c:'#2dd4bf' },
   'Piernas (2a freq)':    { bg:'rgba(245,158,11,0.15)',  c:'#fbbf24' },
+  'Trapecio':             { bg:'rgba(20,184,166,0.15)',  c:'#2dd4bf' },
+  'Trapecio medio / Romboides': { bg:'rgba(20,184,166,0.15)',  c:'#2dd4bf' },
+  'Romboides / Trap. medio': { bg:'rgba(20,184,166,0.15)',  c:'#2dd4bf' },
+  'Delt. Post. / Trapecio': { bg:'rgba(236,72,153,0.15)',  c:'#f472b6' },
+  'Bíceps / Braquial':    { bg:'rgba(236,72,153,0.15)',  c:'#f472b6' },
+  'Abdomen':              { bg:'rgba(168,85,247,0.15)',  c:'#d8b4fe' },
+  'Cuádriceps (2ª freq)': { bg:'rgba(245,158,11,0.15)',  c:'#fbbf24' },
+  'Isquios (2ª freq)':    { bg:'rgba(245,158,11,0.15)',  c:'#fbbf24' },
+  'Dorsal bajo':          { bg:'rgba(34,197,94,0.15)',   c:'#4ade80' },
+  'Espalda / Dorsal bajo': { bg:'rgba(34,197,94,0.15)',   c:'#4ade80' },
+  'Piernas (2a freq)':    { bg:'rgba(245,158,11,0.15)',  c:'#fbbf24' },
+  'Piernas (2ª freq)':    { bg:'rgba(245,158,11,0.15)',  c:'#fbbf24' },
 };
 
 // ───── Rutina — Bloque 1: Amplitud y corrección (Meses 1-6) ─────
