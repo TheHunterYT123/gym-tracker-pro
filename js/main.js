@@ -895,6 +895,9 @@ function renderWorkout() {
             <div class="fs-12 text-muted" style="display:flex; align-items:center; gap:4px;">
               ${ICONS.target} Objetivo: <strong style="color:var(--text-1);">${ex.range} reps</strong>
             </div>
+            ${ex.rir ? `<div class="fs-12" style="display:flex; align-items:center; gap:4px; margin-top:4px; color:#d8b4fe; font-weight:600;">
+              ${ICONS.zap} Sistema RIR: <strong>${ex.rir}</strong>
+            </div>` : ''}
           </div>
           
           <button class="timer-stop" onclick="window.GT.startTimer(${ex.restS})" style="display:flex; flex-direction:column; align-items:center; justify-content:center; background:var(--bg-2); border:1px solid rgba(59,130,246,0.3); border-radius:var(--radius-md); padding:10px; min-width:76px; transition:all var(--transition);">
