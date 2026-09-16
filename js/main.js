@@ -443,8 +443,8 @@ const ROUTINE = {
   Domingo:{ label:'Pull B — Espalda + piernas 2ª frecuencia', exercises:[
     {id:'do1', muscle:'Espalda', name:'Dominadas asistidas o lastre (fuerza)',              tag:'PRINCIPAL',sets:3,range:'6–8', rest:'3 min', restS:180, rir:'RIR 1–2'},
     {id:'do12',muscle:'Espalda / Dorsal bajo', name:'Remo con mancuerna a un brazo (densidad)', tag:'PRINCIPAL',sets:3,range:'8–10',rest:'2 min', restS:120, rir:'RIR 1'},
-    {id:'do3', muscle:'Dorsal bajo', name:'Jalón polea agarre cerrado supino',               sets:2,range:'10–12',rest:'2 min', restS:120, rir:'RIR 0–1'},
-    {id:'do4', muscle:'Delt. Post. / Trapecio', name:'Face pulls en polea',                  sets:3,range:'12–15',rest:'1:30 min', restS:90,  rir:'RIR 0–1'},
+    {id:'do3',muscle:'Romboides / Trap. medio', name:'Retracción escapular en banco inclinado con mancuernas', tag:'PRIORIDAD',sets:3,range:'12-15',rest:'1:30 min', restS:90, rir:'RIR 0-1'},
+    {id:'do4', muscle:'Delt. Post. / Trapecio', name:'Face pulls en polea',                  sets:2,range:'12–15',rest:'1:30 min', restS:90,  rir:'RIR 0–1'},
     {id:'do7', muscle:'Bíceps', name:'Curl predicador (DENSIDAD)',                           sets:3,range:'10–12',rest:'1:30 min', restS:90,  rir:'RIR 0–1'},
     {id:'do8', muscle:'Bíceps / Braquial', name:'Curl martillo alternado',                   sets:2,range:'12–15',rest:'1:30 min', restS:90,  rir:'RIR 0–1'},
     {id:'do9_mod', muscle:'Cuádriceps (2ª freq)', name:'Sentadilla búlgara o ligera',        sets:2,range:'6–8',rest:'2 min', restS:120, rir:'RIR 1–2'},
