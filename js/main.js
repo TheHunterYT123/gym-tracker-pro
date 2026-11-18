@@ -418,10 +418,10 @@ const ROUTINE = {
   ]},
   Miércoles:{ label:'Pull A — Espalda fuerte', exercises:[
     {id:'mi3', muscle:'Espalda', name:'Dominadas agarre prono (o asistidas + lastre)',              tag:'PRINCIPAL',sets:3,range:'6–8', rest:'3 min',    restS:180, rir:'RIR 1–2'},
-    {id:'mi13',muscle:'Romboides / Trap. medio', name:'Remo con mancuerna apoyado en banco, codo alto + squeeze', tag:'PRIORIDAD',sets:3,range:'8–10',rest:'2 min', restS:120, rir:'RIR 1'},
+    {id:'mi13',muscle:'Romboides / Trap. medio', name:'Remo en maquina', tag:'PRIORIDAD',sets:3,range:'8–10',rest:'2 min', restS:120, rir:'RIR 1'},
     {id:'mi1', muscle:'Espalda', name:'Remo con barra inclinado (overhand) — enfoque en dorsal bajo', tag:'PRINCIPAL',sets:3,range:'6–8', rest:'3 min',    restS:180, rir:'RIR 1–2'},
     {id:'mi_cm',muscle:'Bíceps', name:'Curl predicador',  sets:3,range:'8–10', rest:'2 min',    restS:120, rir:'RIR 1'},
-    {id:'mi_pj',muscle:'Delt. Posterior', name:'Pájaro con mancuernas en banco inclinado 30–45° (pecho apoyado)', tag:'PRIORIDAD',sets:3,range:'12–15',rest:'1:30 min', restS:90, rir:'RIR 0–1'},
+    {id:'mi_pj',muscle:'Delt. Posterior', name:'Pájaro en polea', tag:'PRIORIDAD',sets:3,range:'12–15',rest:'1:30 min', restS:90, rir:'RIR 0–1'},
     {id:'mi10',muscle:'Bíceps / Braquial', name:'Curl martillo en polea',                      sets:2,range:'10–12',rest:'1:30 min', restS:90,  rir:'RIR 0–1'},
     {id:'mi_mz',muscle:'Antebrazos', name:'Curl de muñeca palmas arriba',                            sets:3,range:'12–20',rest:'1 min',    restS:60,  rir:'RIR 0–1'},
   ]},
@@ -445,7 +445,7 @@ const ROUTINE = {
   ]},
   Domingo:{ label:'Pull B — Espalda + piernas 2ª frecuencia', exercises:[
     {id:'do1', muscle:'Espalda', name:'Dominadas asistidas o lastre (fuerza)',                      tag:'PRINCIPAL',sets:3,range:'6–8', rest:'3 min',    restS:180, rir:'RIR 1–2'},
-    {id:'do3', muscle:'Romboides / Trap. medio', name:'Retracción escapular en banco inclinado con mancuernas', tag:'PRIORIDAD',sets:3,range:'12–15',rest:'1:30 min', restS:90, rir:'RIR 0–1'},
+    {id:'do3', muscle:'Romboides / Trap. medio', name:'Retracción escapular en maquina', tag:'PRIORIDAD',sets:3,range:'12–15',rest:'1:30 min', restS:90, rir:'RIR 0–1'},
     {id:'do12',muscle:'Espalda / Dorsal bajo', name:'Remo con mancuerna a un brazo (densidad)',     tag:'PRINCIPAL',sets:3,range:'8–10',rest:'2 min',    restS:120, rir:'RIR 1'},
     {id:'do7', muscle:'Bíceps', name:'Curl predicador (DENSIDAD)',                                  sets:3,range:'10–12',rest:'1:30 min', restS:90,  rir:'RIR 0–1'},
     {id:'do_sl',muscle:'Cuádriceps (2ª freq)', name:'Sentadilla libre (2ª freq)',                    sets:2,range:'6–8', rest:'2 min',    restS:120, rir:'RIR 1–2'},
